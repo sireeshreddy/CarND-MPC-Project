@@ -62,6 +62,6 @@ psi = psi - v*steer_value/Lf*latency;
 v = v + throttle_value*latency;
 '''
 
-# Simulation
+# Simulation 
 
 - The car successfully drives around the track using the Model Predictive Control 
